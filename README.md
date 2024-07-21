@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/[image.jpg](https://i.pinimg.com/564x/f8/02/00/f80200c948f59a368701e19aaa0a0910.jpg)?raw=true)
+![Alt text]([https://example.com/path/to/image.png](https://i.pinimg.com/564x/b3/b6/d0/b3b6d08619ee4f44e887b3f0b8183797.jpg))
