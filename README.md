@@ -1,1 +1,1 @@
-<img src="[images/example.png](https://example.com/path/to/image.png](https://i.pinimg.com/564x/b3/b6/d0/b3b6d08619ee4f44e887b3f0b8183797.jpg)" width="300" />
+<img src="https://i.pinimg.com/564x/7e/92/2c/7e922c7e6a92015cd82d147588b69522.jpg" width="300" />
